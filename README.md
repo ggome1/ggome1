@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="[https://img.shields.io](https://www.notion.so/GGome-b79e9e8ae6144db49d916651ddba41a4)/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+ <a href="https://www.notion.so/GGome-b79e9e8ae6144db49d916651ddba41a4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <!--
 **ggome1/ggome1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
