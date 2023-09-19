@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&fontColor=000000&height=200&section=header&text=Github&fontSize=90&animation=blink&stroke=F123F1&strokeWidth=3&desc=ggome1's&descAlignY=73&descAlign=70&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&fontColor=000000&height=200&section=header&text=Github&fontSize=90&animation=blink&stroke=F123F1&strokeWidth=3&desc=ggome1's&descAlignY=73&descAlign=60&fontAlign=50)
 
 ---
 
