@@ -1,9 +1,8 @@
 ### Hi there 👋
  <a href="https://www.notion.so/GGome-b79e9e8ae6144db49d916651ddba41a4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggome1&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggome1&layout=compackt&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggome1&layout=compact&theme=dark)
 
 
 
