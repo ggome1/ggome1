@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&fontColor=000000&height=200&section=header&text=Github&fontSize=90&animation=blinking&stroke=F123F1&strokeWidth=3&desc=ggome1's&descAlignY=73&descAlign=60&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&section=header&text=Github&fontColor=8b0000&fontSize=90&animation=blinking&stroke=006400&strokeWidth=3&desc=ggome1's&descAlignY=73&descAlign=60&fontAlign=50)
 
 ---
 
